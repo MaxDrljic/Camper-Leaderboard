@@ -36,3 +36,11 @@
   float: left;
   border: 1px solid black
 }
+
+.points30Days {
+  cursor: pointer;
+}
+
+.allTimePoints {
+  cursor: pointer;
+}
