@@ -1,3 +1,9 @@
+# Camper Leaderboard
+
+Project made for FreeCodeCamp. This is a Camper Leaderboard which shows us top 100 campers from the past 30 days, and 100 campers of all time.
+
+Used React, React-Bootstrap and Axios to make 2 calls to grab necessary data.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2433,3 +2439,5 @@ In the future, we might start automatically compiling incompatible third-party m
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 "# Camper-Leaderboard" 
+
+
